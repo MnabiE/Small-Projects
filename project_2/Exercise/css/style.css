@@ -1,0 +1,134 @@
+#requestNow{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    border-color:black;
+}
+
+
+#addToCart{
+background-color: rgb(255, 216, 20);
+color: black;
+border: none;
+border-radius: 20px;
+height: 40px;
+width: 180px;
+cursor: pointer;
+margin: 20px;
+}
+
+#addToCart:hover{
+ background-color: brown;
+ opacity: 0.5;
+}
+
+
+
+
+
+#gitHub{
+    background-color: rgb(46, 164, 79);
+    height:40px;
+    width: 100px;
+    border-radius: 8px;
+    margin: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#gitHub:active{
+    opacity: 0.7;
+    background-color: lawngreen;
+    height: 60px;
+}
+
+#getStarted{
+background-color: rgb(121, 82, 179);
+height: 40px;
+width:120px;
+border: radius 8px;
+border: none;
+margin:10px;
+color: white;
+cursor: pointer;
+}
+
+#download{
+background-color: rgb(238, 243, 248);
+height: 40px;
+width:120px;
+border: radius 15px;
+margin:10px;
+cursor: pointer;
+color:black;
+
+}
+
+
+#apply{
+    background-color: rgb(10, 102, 194);
+    height: 40px;
+    width: 250px;
+    color: white;
+    font-weight:bold;
+    font-size: medium;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 50px;
+    border-color: blue;
+    
+}
+
+#save{
+    background-color: white;
+    height: 40px;
+    width: 90px;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+    border-color: blue;
+    color: blue;
+    border-radius: 50px;
+}
+
+
+
+
+#contenar{
+    margin:10% 20% ;
+    background-color: rgb(207, 207, 207);
+    padding: 10px;
+    height: 210px;
+    width: 400px;
+}
+
+#backToAmazon{
+    color: rgb(0, 113, 133);
+}
+#stock{
+    color: rgb(0,118, 0);
+}
+.addToCart{
+    background-color: rgb(255, 216, 20);
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+
+}
+
+.buyNow{
+    background-color: rgb(255, 164, 28);
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    
+
+}

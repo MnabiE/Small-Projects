@@ -1,0 +1,49 @@
+.Tahoma{
+    font-family:Tahoma;
+    font-weight: bold;
+}
+
+
+.Verdama{
+    font-family: verdana;
+    height: 100px;
+    width: 300px;
+
+}
+.heading{
+    margin-block-start: 0px;
+    margin-block-end:1px ;
+}
+
+.fontGray{
+    color:gray;
+    font-weight: lighter;
+    vertical-align: bottom;
+    margin-block-start: 0px;
+    margin-block-end:1px ;
+    margin-top: 8px;
+}
+
+.getStarted{
+    background-color: rgb(56,126,35);
+    color: white;
+    padding: 7px 15px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.biggestDeal{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    margin-top: 20px;
+    border-color: aqua;
+    border: solid;
+    width: 450px;
+    padding: 10px;
+    height: 100px;
+}
+.biggestDeal span{
+    color: rgb(250, 98, 98);
+    font-style: italic;
+    font-weight: bold;
+}

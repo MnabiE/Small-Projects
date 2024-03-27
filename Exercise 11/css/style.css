@@ -1,0 +1,88 @@
+                /* <!-- 11a --> */
+
+#div-one{
+    display: grid;
+    grid-template-columns: 200px 75px;
+    padding-bottom: 50px;
+}
+
+.divOne{
+    background-color: lightblue;
+}
+
+.div-one{
+    background-color: lightpink;   
+}
+
+                    /* 11b */
+#div-two{
+display: grid;
+grid-template-columns: 50px 1fr 75px;
+padding-bottom: 50px;
+}
+.divTwo{
+    background-color: lightblue;
+}
+.div-two{
+    background-color: lightpink;
+}
+
+                    /* 11c */
+
+#div-three{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 20px;
+    padding-bottom: 50px;
+}
+
+.pink{
+    background-color: lightpink;
+}
+
+
+                /* 11 d  */
+
+
+#Oliver{}
+
+.thumbnail{
+    width: 150px;
+    display: block;
+}
+
+.name{
+    font-weight: bold;
+    display: block;
+    margin: 7px 0 0  7px;
+}
+
+.channel{
+    width: 23px;
+    border-radius: 20px;
+    display: inline;
+    margin-left: 7px;
+    margin: 5px;
+}
+
+.comment{
+    color: gray;
+    vertical-align: 70%;
+}
+
+.addFriend{
+    background-color: rgb(94, 94, 255);
+    color: white;
+    padding: 7px 15px;
+    border-radius: 7px;
+    border-style: none;
+    display: block;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+
+#final{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

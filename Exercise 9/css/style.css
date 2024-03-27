@@ -1,0 +1,84 @@
+.square{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+}
+.left{
+    display: inline-block;
+    
+}
+.circle{
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.witheBackground{
+border-style: solid;
+border-color: gray;
+width: 300px;  
+padding: 10px;
+margin-left: 20px;
+margin-top: 40px;
+display: inline-block;
+vertical-align: top;
+}
+
+.blackBackground{
+    background-color: rgb(79, 78, 78);
+    width: 300px;
+    height: 120px;
+    color: white;
+    padding: 5px 10px;
+    margin-left: 100px;
+    border-color: gray;
+}
+.blackBackground p{
+    color: rgb(174, 174, 174);
+}
+
+
+.border{
+    border-radius: 10px;
+    border-color: rgb(255, 80, 80);
+    border:solid;
+    border-width: 1px;
+    height: 70px;
+    width: 380px;
+    margin:20px;
+    margin-left: 50px;
+    box-shadow: 3px 3px 3px 3px;
+4
+}
+.happy img{
+    height: 50px;
+    padding:11px;
+    border-radius: 50px;
+    cursor: context-menu;
+}
+.happy{
+    display: inline-block;
+}
+
+.what{
+    display: inline-block;
+    margin-left: 5px;
+    padding-top: 10px;
+    vertical-align: top;
+    color: gray;
+}
+
+.tweetbutton{
+    background-color: rgb(74,153,233);
+    padding: 7px 17px;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-left: 70px;
+    color: white;
+    border-color: rgb(74,153,233);
+    vertical-align: bottom;
+    margin-bottom: 25px;
+    border-style: none;
+    cursor: pointer;
+}
